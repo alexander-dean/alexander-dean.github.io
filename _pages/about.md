@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! This is the rest of my website biography.
+Welcome! I am a third year Ph.D. student in the political science department at Vanderbilt. 
 
 You can reach me at alexander [dot] r [dot] dean [at] vanderbilt.edu
 
